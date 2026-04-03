@@ -1,4 +1,4 @@
-## 📊 Dashboard
+##  Dashboard
 
 ![Dashboard](dashboard/E-Ticaret Hunisi Projesi_Dashboard.png)
 
